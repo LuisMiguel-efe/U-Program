@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8463bddc81fd6e641be3ca8c504abdc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - question1: {instanceID: 0}
+  - bonopregunta: {fileID: 1878600893003410098, guid: 958db3a4378c5d64e81d9f3008f2f747, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: e99ff3904f2d16144aaa6fb90db159f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5065294323541668396
+    second: fondo-pared-ladrillo-rojo_92086-112_0
+  - first:
+      213: -6789220247049450079
+    second: fondo-pared-ladrillo-rojo_92086-112_1
+  - first:
+      213: 5631144444039548979
+    second: fondo-pared-ladrillo-rojo_92086-112_2
+  - first:
+      213: 6264954854548180250
+    second: fondo-pared-ladrillo-rojo_92086-112_3
+  - first:
+      213: -5274869974545511540
+    second: fondo-pared-ladrillo-rojo_92086-112_4
+  - first:
+      213: 815428482999361933
+    second: fondo-pared-ladrillo-rojo_92086-112_5
+  - first:
+      213: -6153707899839415955
+    second: fondo-pared-ladrillo-rojo_92086-112_6
+  - first:
+      213: -2667011317363721685
+    second: fondo-pared-ladrillo-rojo_92086-112_7
+  - first:
+      213: -5140538678374040428
+    second: fondo-pared-ladrillo-rojo_92086-112_8
+  - first:
+      213: -7996632918170602143
+    second: fondo-pared-ladrillo-rojo_92086-112_9
+  - first:
+      213: 3805789201914971741
+    second: fondo-pared-ladrillo-rojo_92086-112_10
+  - first:
+      213: -3357225177085247526
+    second: fondo-pared-ladrillo-rojo_92086-112_11
+  - first:
+      213: 7791860936572766442
+    second: fondo-pared-ladrillo-rojo_92086-112_12
+  - first:
+      213: -2866392503148363697
+    second: fondo-pared-ladrillo-rojo_92086-112_13
+  - first:
+      213: -215999860798028805
+    second: fondo-pared-ladrillo-rojo_92086-112_14
+  - first:
+      213: 5684833201946326261
+    second: fondo-pared-ladrillo-rojo_92086-112_15
+  - first:
+      213: 2892535792626223073
+    second: fondo-pared-ladrillo-rojo_92086-112_16
+  - first:
+      213: -1190273678507580721
+    second: fondo-pared-ladrillo-rojo_92086-112_17
+  - first:
+      213: -764732042529756804
+    second: fondo-pared-ladrillo-rojo_92086-112_18
+  - first:
+      213: 6265104328079796669
+    second: fondo-pared-ladrillo-rojo_92086-112_19
+  - first:
+      213: -5800679143914371406
+    second: fondo-pared-ladrillo-rojo_92086-112_20
+  - first:
+      213: 6674232350797129696
+    second: fondo-pared-ladrillo-rojo_92086-112_21
+  - first:
+      213: -760272873760129150
+    second: fondo-pared-ladrillo-rojo_92086-112_22
+  - first:
+      213: 8130183261773010808
+    second: fondo-pared-ladrillo-rojo_92086-112_23
+  - first:
+      213: -4642684596104892211
+    second: fondo-pared-ladrillo-rojo_92086-112_24
+  - first:
+      213: -1193728352307890389
+    second: fondo-pared-ladrillo-rojo_92086-112_25
+  - first:
+      213: -6340843314946125931
+    second: fondo-pared-ladrillo-rojo_92086-112_26
+  - first:
+      213: 6425225542816607054
+    second: fondo-pared-ladrillo-rojo_92086-112_27
+  - first:
+      213: -4859308449804194806
+    second: fondo-pared-ladrillo-rojo_92086-112_28
+  - first:
+      213: 3535737318049579207
+    second: fondo-pared-ladrillo-rojo_92086-112_29
+  - first:
+      213: -2630998017591954092
+    second: fondo-pared-ladrillo-rojo_92086-112_30
+  - first:
+      213: 3177100990659478538
+    second: fondo-pared-ladrillo-rojo_92086-112_31
+  - first:
+      213: 5366390649727328308
+    second: fondo-pared-ladrillo-rojo_92086-112_32
+  - first:
+      213: -5711600377390587889
+    second: fondo-pared-ladrillo-rojo_92086-112_33
+  - first:
+      213: -4085527371658328232
+    second: fondo-pared-ladrillo-rojo_92086-112_34
+  - first:
+      213: -9929044592055561
+    second: fondo-pared-ladrillo-rojo_92086-112_35
+  - first:
+      213: -1900207674966654502
+    second: fondo-pared-ladrillo-rojo_92086-112_36
+  - first:
+      213: 636377196981330224
+    second: fondo-pared-ladrillo-rojo_92086-112_37
+  - first:
+      213: 5693747347712522386
+    second: fondo-pared-ladrillo-rojo_92086-112_38
+  - first:
+      213: -4006270091128258997
+    second: fondo-pared-ladrillo-rojo_92086-112_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0f7a56a574b9b0800000000000000
+      internalID: -5065294323541668396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 411
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4ab8f728d7c1a0800000000000000
+      internalID: -6789220247049450079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 411
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33054e96908d52e40800000000000000
+      internalID: 5631144444039548979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 411
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d043f3f3791f650800000000000000
+      internalID: 6264954854548180250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 411
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b47d2a4b5ebc6b0800000000000000
+      internalID: -5274869974545511540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a9ec82ebf05b00800000000000000
+      internalID: 815428482999361933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 353
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697e82d443a99aa0800000000000000
+      internalID: -6153707899839415955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab698565fdcfad0800000000000000
+      internalID: -2667011317363721685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 353
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cfb59ce4329a8b0800000000000000
+      internalID: -5140538678374040428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 353
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165fe399ab0460190800000000000000
+      internalID: -7996632918170602143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c82e7d11e0d430800000000000000
+      internalID: 3805789201914971741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 295
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff5d02d7db861d0800000000000000
+      internalID: -3357225177085247526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 295
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae889af1d30422c60800000000000000
+      internalID: 7791860936572766442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 295
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40cff684378838d0800000000000000
+      internalID: -2866392503148363697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 295
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38991654d900df0800000000000000
+      internalID: -215999860798028805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47b597da594ee40800000000000000
+      internalID: 5684833201946326261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 237
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c6936af9542820800000000000000
+      internalID: 2892535792626223073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 237
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ee0f456c4b7fe0800000000000000
+      internalID: -1190273678507580721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 237
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a7a052402365f0800000000000000
+      internalID: -764732042529756804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 237
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db965f3413f12f650800000000000000
+      internalID: 6265104328079796669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b687fa4d09df7fa0800000000000000
+      internalID: -5800679143914371406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7eea126f2af9c50800000000000000
+      internalID: 6674232350797129696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 179
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f792379d7f275f0800000000000000
+      internalID: -760272873760129150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 179
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779eccd99634d070800000000000000
+      internalID: 8130183261773010808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 179
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07df435fed19fb0800000000000000
+      internalID: -4642684596104892211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27306263660f6fe0800000000000000
+      internalID: -1193728352307890389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc93ca99cc008a0800000000000000
+      internalID: -6340843314946125931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba951c69cfa2950800000000000000
+      internalID: 6425225542816607054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ced5be5b4409cb0800000000000000
+      internalID: -4859308449804194806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 121
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0007d8b56711130800000000000000
+      internalID: 3535737318049579207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455bcac1e31dc7bd0800000000000000
+      internalID: -2630998017591954092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04cccb9484571c20800000000000000
+      internalID: 3177100990659478538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a9f21ddf397a40800000000000000
+      internalID: 5366390649727328308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 63
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a5a6d7b15cb0b0800000000000000
+      internalID: -5711600377390587889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 63
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578b24608a4d47c0800000000000000
+      internalID: -4085527371658328232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa1282699bcdff0800000000000000
+      internalID: -9929044592055561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14426ff2b11a5e0800000000000000
+      internalID: -1900207674966654502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312b3160bdd4d800800000000000000
+      internalID: 636377196981330224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983a35cb01440f40800000000000000
+      internalID: 5693747347712522386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo-pared-ladrillo-rojo_92086-112_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e3708049ed668c0800000000000000
+      internalID: -4006270091128258997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 808d10bf5b94d4e40be0974a48df95fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuInicio: {instanceID: 0}
+  - menuFinal: {instanceID: 0}
+  - bono: {instanceID: 0}
+  - popo1: {instanceID: 0}
+  - cielo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
