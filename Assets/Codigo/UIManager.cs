@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
 {
-    public GameObject pauseMenu;
+    public GameObject pauseMenu; //Menu de Pausa
     
-    
+    // FUNCIONES PARA LOS BOTONES
     
     public void PauseMenu()
     {
@@ -23,14 +23,19 @@ public class UIManager : MonoBehaviour
     public void GoToLevel1()
     {
         SceneManager.LoadScene("Level1");
+        Time.timeScale = 1;
     }
     
     public void GoToHome()
     {
         SceneManager.LoadScene("SampleScene");
     }
-    
 
+    public void GoToLevel2()
+    {
+        SceneManager.LoadScene("Level2");
+        Time.timeScale = 1;
+    }
 
 
 
