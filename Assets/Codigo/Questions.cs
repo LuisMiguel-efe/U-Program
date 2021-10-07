@@ -33,10 +33,9 @@ public class Questions : MonoBehaviour
             // Destruir Bono
             Destroy(gameObject, 0.2f);
         } else
-        if (collis.CompareTag("Player") && question2 != null )
+        if (collis.CompareTag("Player") && question2 != null && question == null)
         {
             //Musica
-
             Camera.main.GetComponent<AudioSource>().volume = 0.1f;
 
             // Pausar, mostrar pregunta
@@ -48,7 +47,7 @@ public class Questions : MonoBehaviour
             // Destruir Bono
             Destroy(gameObject, 0.2f);
         } else
-            if (collis.CompareTag("Player") && question3 != null )
+            if (collis.CompareTag("Player") && question3 != null && question == null && question2 == null)
         {
             //Musica
             Camera.main.GetComponent<AudioSource>().volume = 0.1f;

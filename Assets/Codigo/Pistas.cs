@@ -58,17 +58,27 @@ public class Pistas : MonoBehaviour
 
     }
 
-    public void fadePistas()
+    public void fadePista1()
     {
         Time.timeScale = 1;
         pista1.SetActive(false);
+    }
+    public void fadePista2()
+    {
+        Time.timeScale = 1;
         pista2.SetActive(false);
+      
+    }
+    public void fadePista3()
+    {
+        Time.timeScale = 1;
         pista3.SetActive(false);
+    }
+    public void fadePista4()
+    {
+        Time.timeScale = 1;
         pista4.SetActive(false);
     }
-    
-
-
 
 
 

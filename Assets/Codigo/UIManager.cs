@@ -11,11 +11,13 @@ public class UIManager : MonoBehaviour
     
     public void PauseMenu()
     {
+        Camera.main.GetComponent<AudioSource>().Pause();
         Time.timeScale = 0;
         pauseMenu.SetActive(true);
     }
     public void Reanudar()
     {
+        Camera.main.GetComponent<AudioSource>().UnPause();
         Time.timeScale = 1;
         pauseMenu.SetActive(false);
     }
@@ -37,7 +39,10 @@ public class UIManager : MonoBehaviour
         Time.timeScale = 1;
     }
 
-
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 
 
 
