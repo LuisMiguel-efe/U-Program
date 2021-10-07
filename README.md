@@ -29,4 +29,4 @@ TRANSICION LEVEL
 Dicho codigo permite cambiar de escena cuando el judador complete cada uno de los niveles.
 
 UIManajer
-Este codigo sirve para controlar 
+Este codigo sirve para asignar las acciones de los botones en el menú de pausa que tiene juego.
