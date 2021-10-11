@@ -54,8 +54,6 @@ public class Pistas : MonoBehaviour
 
 
 
-
-
     }
 
     public void fadePista1()
@@ -79,8 +77,6 @@ public class Pistas : MonoBehaviour
         Time.timeScale = 1;
         pista4.SetActive(false);
     }
-
-
 
 
 

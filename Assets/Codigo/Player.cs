@@ -38,6 +38,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //MOVE IZQUIERDA DERECHA
         horizontal = Input.GetAxisRaw("Horizontal");
         animator.SetBool("estaCorriendo", horizontal != 0);
        
@@ -57,7 +58,7 @@ public class Player : MonoBehaviour
         else Grounted = false;
 
         // JUANITO SALTA
-        if (Input.GetKeyDown(KeyCode.W) && Grounted )
+        if (Input.GetKeyDown(KeyCode.W) && Grounted && Time.timeScale == 1)
         {
             Camera.main.GetComponent<AudioSource>().PlayOneShot(soundJump);
             animator.SetBool("estaSaltando", true);

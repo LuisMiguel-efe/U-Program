@@ -9,6 +9,8 @@ public class QuitarSoporte : MonoBehaviour
     public AudioClip soundDestroy;
     public GameObject soporte;
     public GameObject soporte2;
+    
+    /// Desaparecer soportes para hacer el derrumbe 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))

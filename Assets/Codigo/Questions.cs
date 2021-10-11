@@ -33,6 +33,7 @@ public class Questions : MonoBehaviour
             // Destruir Bono
             Destroy(gameObject, 0.2f);
         } else
+
         if (collis.CompareTag("Player") && question2 != null && question == null)
         {
             //Musica
@@ -91,9 +92,6 @@ public class Questions : MonoBehaviour
             Destroy(gameObject, 0.2f);
 
         }
-
-
-
 
 
 
